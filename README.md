@@ -29,7 +29,7 @@ values to assess stability.
 # Conclusion
 While individual seasons can show extreme clutch outcomes, clutch hitting does not persist
 over time. The results suggest that observed clutch performance is largely driven by
-variance rather than a repeatable player skill. Expect players who are very clutch or very unclutch to regress heavily to the mean next seaso
+variance rather than a repeatable player skill. Expect players who are very clutch or very unclutch to regress heavily to the mean next season.
 
 # Limitations & Future Work
 - Alternative definitions of leverage (e.g., late & close situations)
